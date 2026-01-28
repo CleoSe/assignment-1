@@ -11,5 +11,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "express": "^5.2.1"
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
